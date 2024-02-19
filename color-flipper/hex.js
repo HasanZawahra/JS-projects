@@ -5,7 +5,7 @@ const body = document.getElementsByTagName("body")[0];
 const span = document.getElementById("sp");
 
 btn.addEventListener('click', () => {
-    const randomIndex = Math.floor(Math.random() * (colors.length-1));
+    const randomIndex = Math.floor(Math.random() * (colors.length));
     body.style.backgroundColor = colors[randomIndex];
     span.innerHTML = colors[randomIndex];
 });
