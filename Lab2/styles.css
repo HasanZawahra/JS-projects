@@ -1,0 +1,45 @@
+
+.flex-container {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    height: 300px;
+    background-color: DodgerBlue;
+  }
+  
+  #t{
+    display: flex;
+  }
+  .content {
+    background-color: white;
+    margin-right: 10px;
+    width: 50px;
+  }
+  
+  .button1 {
+    background-color: red;
+    color: white;
+    margin-right: 10px;
+  }
+  
+  .button2 {
+    background-color: blue;
+    color: white;
+    margin-right: 10px;
+  }
+  
+  .button3 {
+    background-color: green;
+    color: white;
+    margin-right: 10px;
+  }
+  .toggle-on {
+    background-color: green;
+    color: white;
+  }
+  .toggle-off {
+    background-color: red;
+    color: white;
+  }
+  
