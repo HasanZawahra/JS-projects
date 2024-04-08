@@ -36,6 +36,6 @@ Go to the test file and run the tests.
 
 ## Authors
 
-- **Hasan Zawahra** - [YourName](https://github.com/HasanZawahra)
+- **Hasan Zawahra** - [Hasan Zawahra](https://github.com/HasanZawahra)
 
 
