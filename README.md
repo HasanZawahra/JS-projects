@@ -36,7 +36,7 @@ Go to the test file and run the tests.
 
 ## Authors
 
-[Hasan Zawahra](https://github.com/HasanZawahra)
-[Nadine AbuOdeh](https://github.com/nadineabuodeh)
-[Ehab Maali](https://github.com/71iq)
+- [Hasan Zawahra](https://github.com/HasanZawahra)
+- [Nadine AbuOdeh](https://github.com/nadineabuodeh)
+- [Ehab Maali](https://github.com/71iq)
 
